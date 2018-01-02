@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+__pychache__/
+.DS_Store
+sandbox.ipynb
+pickle/
+ml-100k/
