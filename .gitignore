@@ -1,5 +1,5 @@
 .ipynb_checkpoints
-__pycache__/
+__pycache__
 .DS_Store
 sandbox.ipynb
 pickle/
